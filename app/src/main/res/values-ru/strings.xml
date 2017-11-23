@@ -6,4 +6,8 @@
     <string name="pm_port">Порт</string>
     <string name="sensor_sel">Используемые датчики</string>
     <string name="pm_measure">Мерить!</string>
+    <string name="set_ip_addr">Задайте IP</string>
+    <string name="set_port">Задайте порт</string>
+    <string name="sensors_poll">Опрашивать датчики:</string>
+    <string name="cancel_string">Отмена</string>
 </resources>

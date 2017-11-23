@@ -11,4 +11,9 @@
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="maybe">Maybe</string>
+    <string name="set_ip_addr">Set IP</string>
+    <string name="set_port">Set port</string>
+    <string name="sensors_poll">Poll sensors:</string>
+    <string name="ok_string" translatable="false">OK</string>
+    <string name="cancel_string">Cancel</string>
 </resources>
